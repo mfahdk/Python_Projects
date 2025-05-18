@@ -23,4 +23,4 @@ By incorporating these enhancements, users can significantly improve the safety 
 
 # Code Demonstration
 
-![passwordMangaer](https://github.com/user-attachments/assets/1edd1047-f46e-440e-8e9b-e85e0002caa1)
+![Image](https://github.com/user-attachments/assets/37011061-ca2f-458b-a1b2-5a6cc1d0b225)
