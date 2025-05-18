@@ -16,4 +16,3 @@ To use these files, start the server by running "Server Model.py". Then, run "Cl
 
 # Code Demonstration
 
-![Image](https://github.com/user-attachments/assets/2be9a136-9ac5-44f3-86b4-117e7c269785)
